@@ -1,5 +1,11 @@
 # svelte
 
+## 5.16.3
+
+### Patch Changes
+
+- fix: correctly parse `each` with loose parser ([#14887](https://github.com/sveltejs/svelte/pull/14887))
+
 ## 5.16.2
 
 ### Patch Changes
